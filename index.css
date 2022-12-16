@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 3</title>
+</head>
+<body>
+    <ul class="nav nav-tabs" id="navId" role="tablist">
+        <li class="nav-item" role="presentation">
+            <a href="#projects" class="nav-link" data-bs-toggle="tab">Another link</a>
+        </li>
+    </ul>
+    
+    <section id="welcome-section">
+        <h1>Hi my name is Leonardo</h1>
+
+    </section>
+    <section id="projects">
+        <div class="project-title">
+            
+        </div>
+        <div class="project-title">
+            <h2>my second project</h2>
+            <a href="https://hackaday.com/2022/12/12/esp32-projects-from-northwestern-universitys-embedded-electronics-class/">Electronics class project</a>
+        </div>
+    </section>
+</body>
+</html>
