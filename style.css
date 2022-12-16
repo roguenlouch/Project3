@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#navbar{
+    background-color: aliceblue;
+}
+#welcome-section {
+    height:100vh;
+    background-color: antiquewhite;
+}
+#navbar {
+    top:0;
+    background-color: beige;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(251, 253, 94);
+    }
+}
